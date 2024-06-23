@@ -12,7 +12,7 @@ global.namabot = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃"
 global.namaowner = "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"
 global.packname = "Sticker by"
 global.creator = "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"
-global.author = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃\n\n+254102074064"
+global.author = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃\n\n+2347083808798"
 global.wm = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃"
 global.syt = "https://www.youtube.com/@SanjayaAds"
 global.sgc = "https://chat.whatsapp.com/BhLOaPSL3SKCw9QAnudLDw"
@@ -21,7 +21,7 @@ global.email = "OwnerKuu@gmail.com"
 global.sig = "https://Instagram.com/@Jayy_yete"
 global.myweb = "https://shoplinks.to/AiBotzzSH"
 global.footer_text = "© Jester-MD"
-global.owner = ['254102074064']
+global.owner = ['2347083808798']
 global.gifin = "https://telegra.ph/file/0cf1c5039a2be1b66ef15.mp4"
 global.thumb = "https://telegra.ph/file/6b25dc6f38b32804d7e59.jpg"
 global.thumb2 = "https://telegra.ph/file/c74dda31793574f84070e.jpg"
@@ -60,7 +60,7 @@ global.APIKeys = {
 }
 
 //=== Gak Tau 🐦
-global.pairingNumber = "254102074064"
+global.pairingNumber = "2347083808798"
 // Nomor whatsapp bot lu
 global.prefix = ['-_-'] 
 // Jangan diubah
